@@ -2121,6 +2121,7 @@ models:
     release_date: 2022-03-25
     tags: [] # TODO: add tags
 
+
   # Snowflake
   - name: snowflake/snowflake-arctic-instruct
     display_name: Arctic Instruct
