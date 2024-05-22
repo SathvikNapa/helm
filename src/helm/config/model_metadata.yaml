@@ -1658,6 +1658,8 @@ models:
     release_date: 2023-08-22
     tags: [TEXT_MODEL_TAG, FULL_FUNCTIONALITY_TEXT_MODEL_TAG]
 
+  # DEPRECATED: Announced on July 06 2023 that these models will be shut down on January 04 2024.
+
   - name: openai/davinci
     display_name: davinci (175B)
     description: Original GPT-3 (175B parameters) autoregressive language model ([paper](https://arxiv.org/pdf/2005.14165.pdf), [docs](https://beta.openai.com/docs/model-index-for-researchers)).
